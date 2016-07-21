@@ -1,0 +1,3 @@
+- make sure it works with http:0.0.0.:8080/max_queens
+- DEBUG = False
+- port to 8080
